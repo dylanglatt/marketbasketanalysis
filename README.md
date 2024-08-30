@@ -1,9 +1,7 @@
 # Market Basket Analysis
 # Dylan Glatt
-# Finds desired support (user input) for highly correlated transaction items purchased together. 
-# Output: list of items and support value for target marketing.
 
-This project implements market basket analysis to identify frequent itemsets and association rules from transaction data using Python. The analysis aims to uncover patterns in customer purchasing behavior, which can help businesses make data-driven decisions on product placements, promotions, and inventory management.
+This project implements market basket analysis to identify frequent itemsets and association rules from transaction data using Python. Users can input desired support and length of transactions. The analysis aims to uncover patterns in customer purchasing behavior, which can help businesses make data-driven decisions on product placements, promotions, and inventory management.
 
 ## Features
 - **Frequent Itemset Mining:** Identify itemsets that appear frequently in transactions.
@@ -20,3 +18,6 @@ This project implements market basket analysis to identify frequent itemsets and
 
 You can install the necessary libraries using `pip`:
 pip install numpy pandas matplotlib seaborn mlxtend
+
+# Output
+(https://github.com/user-attachments/assets/a4b9d2a1-8248-49cf-8664-510fd1e321ea)
