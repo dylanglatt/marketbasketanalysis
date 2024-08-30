@@ -1,5 +1,5 @@
 # Market Basket Analysis
-# Dylan Glatt August 2024
+# Dylan Glatt
 # Finds desired support (user input) for highly correlated transaction items purchased together. 
 # Output: list of items and support value for target marketing.
 
