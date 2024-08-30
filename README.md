@@ -1,4 +1,5 @@
 # Market Basket Analysis
+### Dylan Glatt August 2024
 
 This project implements market basket analysis to identify frequent itemsets and association rules from transaction data using Python. Users can input desired support and length of transactions. The analysis aims to uncover patterns in customer purchasing behavior, which can help businesses make data-driven decisions on product placements, promotions, and inventory management.
 
