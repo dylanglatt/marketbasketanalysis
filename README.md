@@ -19,5 +19,3 @@ This project implements market basket analysis to identify frequent itemsets and
 You can install the necessary libraries using `pip`:
 pip install numpy pandas matplotlib seaborn mlxtend
 
-# Output
-(https://github.com/user-attachments/assets/a4b9d2a1-8248-49cf-8664-510fd1e321ea)
